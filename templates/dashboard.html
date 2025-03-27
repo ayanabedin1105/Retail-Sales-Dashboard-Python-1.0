@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retail Sales Dashboard-1.0</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+        img {
+            width: 80%;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Retail Sales Dashboard</h1>
+
+        <h2>📈 Sales Summary</h2>
+        <p><strong>Total Sales:</strong> €{{ "{:,.2f}".format(total_sales) }}</p>
+        <p><strong>Average Sales Per Day:</strong> €{{ "{:,.2f}".format(avg_sales_per_day) }}</p>
+
+        <h2>📊 Daily Sales Trend</h2>
+        <img src="{{ url_for('static', filename='sales_trend.png') }}" alt="Sales Trend">
+
+        <h2>🏆 Top 5 Best-Selling Products</h2>
+        <img src="{{ url_for('static', filename='top_products.png') }}" alt="Top Products">
+
+        <h2>🛍️ Sales by Category</h2>
+        <img src="{{ url_for('static', filename='sales_by_category.png') }}" alt="Sales by Category">
+    </div>
+</body>
+</html>
