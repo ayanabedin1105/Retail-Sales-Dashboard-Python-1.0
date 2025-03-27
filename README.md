@@ -43,7 +43,7 @@ Open http://127.0.0.1:5000/ in your browser.
 `gunicorn app:app`
 - Click **Deploy** and wait a few minutes.
 - Once deployed, you'll get a **public URL** like:
-(https://retail-sales-dashboard-python-1-0.onrender.com)
+[](https://retail-sales-dashboard-python-1-0.onrender.com)
 
 
 ## 📜 License
