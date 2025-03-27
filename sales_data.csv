@@ -1,6 +1,11 @@
 ﻿Date,Product,Category,Quantity,Price,Total Sales
 01/03/2024,Laptop,Electronics,5,800,4000
-02/03/2024,Phone,Electronics,8,500,4000
-02/03/2024,Jeans,Clothing,10,40,400
-03/03/2024,TV,Electronics,3,1000,3000
-04/03/2024,Shoes,Footwear,7,60,420
+01/03/2024,Phone,Electronics,10,500,5000
+02/03/2024,Jeans,Clothing,15,40,600
+02/03/2024,TV,Electronics,3,1000,3000
+03/03/2024,Shoes,Footwear,7,60,420
+03/03/2024,Jacket,Clothing,6,100,600
+04/03/2024,Tablet,Electronics,4,300,1200
+05/03/2024,Smartwatch,Accessories,8,150,1200
+06/03/2024,Headphones,Accessories,12,50,600
+07/03/2024,Sneakers,Footwear,10,90,900
