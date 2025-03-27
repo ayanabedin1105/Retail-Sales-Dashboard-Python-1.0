@@ -6,12 +6,12 @@
 🌍 View Live App (Replace with your actual URL)
 
 ## Features
-- [x] Visualizes daily sales trends using a line chart.
-- [x] Displays top-selling products in a ranked bar chart.
-- [x] Shows sales distribution by category with a bar graph.
-- [x] Loads sales data dynamically from a CSV file.
-- [x] Responsive UI (Bootstrap can be added for styling).
-- [x] Deployed online with Render for public access.
+- ✅ Visualizes daily sales trends using a line chart.
+- ✅ Displays top-selling products in a ranked bar chart.
+- ✅ Shows sales distribution by category with a bar graph.
+- ✅ Loads sales data dynamically from a CSV file.
+- ✅ Responsive UI (Bootstrap can be added for styling).
+- ✅ Deployed online with Render for public access
 
 ## ⚡Tech Stack
 - Backend: Flask (Python)
