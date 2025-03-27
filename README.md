@@ -1,6 +1,6 @@
 
 # Retail Sales Dashboard
-🚀 A web-based Retail Sales Dashboard built with Flask, Pandas, Matplotlib, and Seaborn to visualize sales trends, top-selling products, and category-wise sales.
+🚀 A web-based Retail Sales Dashboard built with Flask, Pandas, Matplotlib, enhanced with **Bootstrap styling** for a professional UI, and Seaborn to visualize sales trends, top-selling products, and category-wise sales.
 
 ## Live Demo
 🌍 [View Live App](https://retail-sales-dashboard-python-1-0.onrender.com)
