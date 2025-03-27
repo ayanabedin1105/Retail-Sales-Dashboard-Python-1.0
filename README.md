@@ -51,3 +51,6 @@ This project is open-sourced under the **MIT License**.
 
 ## 🤝 Contributions
 Feel free to **fork** this repo, open **issues**, and submit **pull requests**!
+
+## 👑 Owner/ Developer
+Ayan Abedin (ayanabedin@gmail.com)
